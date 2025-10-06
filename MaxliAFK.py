@@ -3,7 +3,7 @@
 # developer: @YouRooni (Maxli Dev)
 # id: maxli_afk
 # min-maxli: 30
-
+ 
 import time
 from core.config import get_module_setting, register_module_settings
 
